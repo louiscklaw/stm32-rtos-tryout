@@ -1,3 +1,3 @@
 [submodule "_ref/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC"]
 	path = _ref/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC
-	url = git@github.com:Apress/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC.git
+	url = https://github.com/Apress/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC.git
